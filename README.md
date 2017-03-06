@@ -11,7 +11,7 @@ Greeklish password wordlists for penetration testing in Greece
 Μπορούν όμως εύκολα να ενωθούν σε ένα αρχείο ως εξής (σε linux):
 "surnames_2.txt >> surnames_1.txt" (χωρίς τα quotes)
 
-- features στις λίστες:
+Features στις λίστες:
 - κωδικοί απ 6 έως 16 χαρακτήρες
 - συνδυασμοί με χρονολογιες
 - ειδικοί χαρακτήρες,
