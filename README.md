@@ -9,6 +9,7 @@ Greeklish password wordlists for penetration testing in Greece
 
 
 features στις λίστες:
+  κωδικοί απ 6 έως 16 χαρακτήρες
   συνδυασμοί με χρονολογιες 
   ειδικοί χαρακτήρες,
   τα ονόματα γραμμένα αντεστραμένα
